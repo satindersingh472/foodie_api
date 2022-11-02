@@ -5,7 +5,7 @@
 This is the api for **`foodie`** project
 Every endpoint should be followed by 
 
-https://nufoods.ml
+https://foodieproject.ml
 
 # Endpoints
 
