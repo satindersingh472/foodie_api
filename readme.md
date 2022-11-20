@@ -5,7 +5,11 @@
 This is the api for **`foodie`** project
 Every endpoint should be followed by 
 
-https://foodieproject.ml
+https://foodieproject.ml  <br>
+
+URL for front end: https://github.com/satindersingh472/foodie
+
+
 
 # Endpoints
 
